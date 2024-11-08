@@ -1,7 +1,7 @@
 
 # My App Stack
 
-This repository contains the `docker-compose.yml` file to set up a Flask, Nginx, and MySQL stack using Docker.
+This repository contains the `source code` file to set up a Flask and MySQL stack using Docker.
 
 ## Prerequisites
 
